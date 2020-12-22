@@ -1,4 +1,4 @@
-package com.example.agendatelefonica.adapter;
+package com.example.crudcadastro.adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -12,10 +12,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.agendatelefonica.DAO.DAO;
-import com.example.agendatelefonica.DadosPessoaisActivity;
-import com.example.agendatelefonica.MainActivity;
-import com.example.agendatelefonica.R;
+import com.example.crudcadastro.DadosPessoaisActivity;
+import com.example.crudcadastro.R;
 
 import java.util.ArrayList;
 import java.util.Arrays;

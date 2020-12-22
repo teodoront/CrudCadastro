@@ -1,4 +1,4 @@
-package com.example.agendatelefonica.objetos;
+package com.example.crudcadastro.objetos;
 
 public class Pessoa {
 

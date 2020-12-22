@@ -1,4 +1,4 @@
-package com.example.agendatelefonica;
+package com.example.crudcadastro;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.agendatelefonica;
+package com.example.crudcadastro;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
@@ -14,8 +14,8 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Spinner;
 
-import com.example.agendatelefonica.DAO.DAO;
-import com.example.agendatelefonica.objetos.Pessoa;
+import com.example.crudcadastro.DAO.DAO;
+import com.example.crudcadastro.objetos.Pessoa;
 
 public class DadosPessoaisActivity extends AppCompatActivity {
 

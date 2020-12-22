@@ -1,4 +1,4 @@
-package com.example.agendatelefonica;
+package com.example.crudcadastro;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -7,16 +7,15 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Context;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.Switch;
 import android.widget.Toast;
 
-import com.example.agendatelefonica.DAO.DAO;
-import com.example.agendatelefonica.adapter.RecyclerViewAdapter;
-import com.example.agendatelefonica.objetos.Pessoa;
+import com.example.crudcadastro.DAO.DAO;
+import com.example.crudcadastro.adapter.RecyclerViewAdapter;
+import com.example.crudcadastro.objetos.Pessoa;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.agendatelefonica">
+    package="com.example.crudcadastro">
 
     <application
         android:allowBackup="true"
@@ -10,12 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AgendaTelefonica">
 
-        <activity android:name=".DadosPessoaisActivity">
+        <activity android:name="com.example.crudcadastro.DadosPessoaisActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity"/>
+                android:value="com.example.crudcadastro.MainActivity"/>
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.crudcadastro.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -1,4 +1,4 @@
-package com.example.agendatelefonica.DAO;
+package com.example.crudcadastro.DAO;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -6,9 +6,8 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteConstraintException;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.util.Log;
 
-import com.example.agendatelefonica.objetos.Pessoa;
+import com.example.crudcadastro.objetos.Pessoa;
 
 import java.util.ArrayList;
 import java.util.List;
