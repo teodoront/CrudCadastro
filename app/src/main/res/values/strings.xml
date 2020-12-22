@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AgendaTelefonica</string>
+    
+    <string-array name="spinnerDadosPessoaisSexo">
+
+        <item>Masculino</item>
+        <item>Feminino</item>
+
+    </string-array>
+</resources>
